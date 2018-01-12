@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_chainStyle="packed"
-        app:srcCompat="@drawable/ic_local_play_black_24dp" />
+        app:srcCompat="@drawable/ic_progress_record_black_24dp" />
 
     <TextView
         android:id="@+id/textView2"
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:text="Theatre"
+        android:text="Progress Record"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="40sp"
@@ -45,7 +45,7 @@
         android:layout_marginTop="16dp"
         android:paddingEnd="30dp"
         android:paddingStart="30dp"
-        android:text="Check out all you're favorite , live theater plays"
+        android:text="Keep track of all your achievements, in and out of the gym to increase your success in your training"
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textSize="20sp"

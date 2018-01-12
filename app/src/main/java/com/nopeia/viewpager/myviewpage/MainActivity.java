@@ -3,6 +3,7 @@ package com.nopeia.viewpager.myviewpage;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Build;
+import android.support.design.widget.Snackbar;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -24,6 +25,8 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.nopeia.viewpager.myviewpage.dummy.DummyContent;
 
 import org.w3c.dom.Text;
 
